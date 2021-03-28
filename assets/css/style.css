@@ -193,6 +193,15 @@ p {
         max-width: 100%;
     }
 
+    #card-small {
+        display: flex;
+        justify-content: center;
+        flex-direction: row;
+        flex: auto;
+        text-align: center;
+        margin-top: 1%;
+    }
+
 
 }
 
